@@ -35,7 +35,7 @@ background-size: 100% 100%
 			<div class="collapse navbar-collapse navbar-ex1-collapse">
 				<ul class="nav navbar-nav">
 					<li class="active"><a a href="http://reyanime.com/anime/ultimos/" target="http://reyanime.com/anime/ultimos/">Últimos Agregados</a></li>
-					<li><a a href="http://reyanime.com/anime/proximamente/" target="http://reyanime.com/anime/proximamente/">Proximamente</a></li>
+					<li><a a href="http://reyanime.com/anime/proximamente/" target="http://reyanime.com/anime/proximamente/">?</a></li>
 				</ul>
 				<nav class="navbar-form navbar-left">
 				<div id="search-box" class="main-search-box"> <form method="GET" action="http://www.animeyt.tv/busqueda" accept-charset="UTF-8"> <input placeholder="Mas Animes" name="terminos" type="text"><input style="display:none;" type="submit" value="Buscar"> </form> </div> 
